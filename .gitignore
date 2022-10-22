@@ -1,0 +1,9 @@
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# GCC/XORRISO outputs
+*.o
+*.iso
+*.elf
